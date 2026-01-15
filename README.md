@@ -1,10 +1,12 @@
 Road Damage Detection Application
+
 📌 Overview
 The Road Damage Detection Application is a deep learning–based system designed to improve road safety and infrastructure maintenance. It uses a YOLOv8 Small object detection model trained on the Crowdsensing-based Road Damage Detection Challenge 2022 (CRDDC2022) dataset to detect and classify different types of road damage such as cracks and potholes.
 
 The application provides real-time and batch detection capabilities through an interactive Streamlit interface.
 
 ✨ Features
+
 🚦 Real-time Road Damage Detection using webcam input
 
 📷 Image-based Detection for uploaded images
@@ -16,6 +18,7 @@ The application provides real-time and batch detection capabilities through an i
 🧠 Multi-class Damage Classification with confidence scores
 
 🧱 Types of Road Damage Detected
+
 Longitudinal Crack
 
 Transverse Crack
