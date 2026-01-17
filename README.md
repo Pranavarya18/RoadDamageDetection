@@ -96,6 +96,13 @@ Result Display
 
 Output is shown in the Streamlit interface with visual annotations
 
+⚠️ Limitations
+
+- Performance may vary in poor lighting or extreme weather conditions.
+- Webcam performance depends on hardware capability.
+- The model is trained on limited regions and may not generalize perfectly to all road types.
+
+
 🚀 Applications
 Smart city infrastructure monitoring
 
