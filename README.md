@@ -112,6 +112,14 @@ Traffic safety analysis
 
 Autonomous vehicle perception support
 
+🔮 Future Improvements
+
+- Support for additional road damage categories.
+- Integration with cloud storage for result logging.
+- Mobile-friendly deployment for field engineers.
+- Model optimization for edge devices.
+
+
 📬 Contact
 For queries or feedback:
 
