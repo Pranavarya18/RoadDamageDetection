@@ -119,6 +119,13 @@ Autonomous vehicle perception support
 - Mobile-friendly deployment for field engineers.
 - Model optimization for edge devices.
 
+📦 Requirements Notes
+
+- Python 3.8 or higher is recommended.
+- A virtual environment is suggested to avoid dependency conflicts.
+- Tested on Windows and Linux environments.
+
+
 
 📬 Contact
 For queries or feedback:
